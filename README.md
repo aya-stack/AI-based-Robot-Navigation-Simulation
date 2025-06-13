@@ -15,7 +15,8 @@ This project is a Python simulation of robot path planning in a 2D grid environm
 2. Randomly place obstacles on the grid.
 3. Run the A* pathfinding algorithm to find the shortest path from start to goal.
 4. Visualize the environment and the path in a graphical window.
-![image](https://github.com/user-attachments/assets/e20286fe-da8b-4381-bfda-afa04d8368c0)
+![image](https://github.com/user-attachments/assets/c5b0989e-26f6-49ba-8fc5-14d4ac628958)
+
 
 ## Requirements
 
